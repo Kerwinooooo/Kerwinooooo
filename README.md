@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Kerwinooooo 👋
+     
 <!--
 **Kerwinooooo/Kerwinooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![Kerwinooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerwinooooo&show_icons=true&theme=jolly&include_all_commits=true&show_icons=true)
+      
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerwinooooo&layout=compact&theme=shades-of-purple)](https://github.com/Kerwinooooo/github-readme-stats) -->
